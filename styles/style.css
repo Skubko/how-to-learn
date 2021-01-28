@@ -14,7 +14,7 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  background-color: #f2f2f2 ; /* страница имеет серый фон */
+  background-color: #f2f2f2; /* страница имеет серый фон */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -26,7 +26,7 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
-  background-color: #2f80ed ; /* фигура имеет синий цвет */
+  background-color: #2f80ed; /* фигура имеет синий цвет */
   z-index: 1;
   position: absolute;
   right: 0;
@@ -34,14 +34,6 @@
  
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  /* padding: 0px 0px; */
-}
  .header__logo {
   height: 32px;
   width: 183px;
@@ -91,7 +83,7 @@
 
 .description {
   margin-top: 100px;
-  display: flex; 
+  display: flex;
   justify-content: center;
 }
 
@@ -116,7 +108,7 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   justify-content: space-between;
 
@@ -143,7 +135,7 @@
 .digits {
   margin-top: 100px;
   margin-bottom: 100px;
-  display: flex; 
+  display: flex;
   flex-direction: column;
   align-items: center;
 }
@@ -170,7 +162,7 @@
   margin: 0;
   padding: 0;
   width: 1100px;
-  display: flex; 
+  display: flex;
   flex-direction: row;
   align-items: stretch;
   flex-wrap: wrap;
@@ -181,7 +173,7 @@
   margin: 60px 0px 0px 0px;
   padding: 0;
   width: 250px;
-  display: flex; 
+  display: flex;
   flex-direction: column;
   
 }
@@ -207,10 +199,10 @@
 
    .feynman {
     height:  790px;
-    background-color: #f2f2f2 ; /* страница имеет серый фон */
+    background-color: #f2f2f2; /* страница имеет серый фон */
     margin: 0;
     padding: 0;
-    display: flex; 
+    display: flex;
     flex-direction: column;
     align-items: center;
     position: relative;
@@ -264,10 +256,10 @@
 
    .kaufman {
     height:  790px;
-    background-color: #000 ; /* страница имеет черный фон */ 
+    background-color: #000;
     margin: 0;
     padding: 0;
-    display: flex; 
+    display: flex;
     flex-direction: column;
     align-items: center;
     position: relative;
@@ -292,9 +284,9 @@
    }
 
    .table__cell_theme_dark {
-    color: #fff;   
+    color: #fff;
     margin: 80px 0px 0px 0px;
-    width: 200px;  
+    width: 200px;
    }
 
    .table__heading_theme_dark {
@@ -316,11 +308,11 @@
 
 
    .footer {
-    background-color: #000 ; /* страница имеет черный фон */ 
+    background-color: #000;
     padding-top: 60px;
     padding-bottom: 40px;
-    margin: 0; 
-    display: flex; 
+    margin: 0;
+    display: flex;
     justify-content: center;
    }
 
@@ -328,15 +320,15 @@
     width: 90%;
     min-height: 250px;
     margin: auto;
-    display: flex; 
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
     position: relative;
    }
 
    .footer__column_content_copyright {
-    flex-basis: 711px; 
-    display: flex; 
+    flex-basis: 711px;
+    display: flex;
     flex-direction: column;
     justify-content: flex-end;
     position: relative;
@@ -344,7 +336,7 @@
    }
 
    .footer__column_content_info {
-    display: flex; 
+    display: flex;
     flex-direction: column;
     justify-content: flex-start;
     position: relative;
@@ -353,7 +345,7 @@
    }
 
    .footer__column_content_social {
-    display: flex; 
+    display: flex;
     flex-direction: column;
     justify-content: flex-start;
     position: relative;

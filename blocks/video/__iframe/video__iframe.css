@@ -3,4 +3,8 @@
   height: 316px;
   margin: 0px;
   padding: 0px;
+  border: 0px;
+}
+.video__iframe:nth-child(2) {
+margin-left: 20px;
 }

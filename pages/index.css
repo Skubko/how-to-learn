@@ -17,7 +17,6 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
-@import url(../blocks/cards/__item/cards__item-nth-child.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
@@ -25,7 +24,6 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
-@import url(../blocks/video/__iframe/video__iframe-nth-child.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
